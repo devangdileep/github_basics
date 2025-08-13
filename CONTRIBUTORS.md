@@ -2,5 +2,4 @@
 
 | Name        | Random fact about yourself     |
 |-------------|--------|
-| Naveen      | I love coffee, but I occasionally cheat on it with some tea |
-| Nishtha | I am very rich |
+| Devang      | I love to play batminton and watch movies in my free time |
